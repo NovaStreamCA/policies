@@ -118,7 +118,9 @@ p {
 }
 
 p strong,
-p b {
+p b,
+ul strong,
+ul b {
     color: #43469f;
 }
 
